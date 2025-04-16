@@ -1,3 +1,0 @@
-The "SAM_collab.ipynb" will not be able to show you the "Original Image", "SAM Predicted Mask" and "Ground Truth Mask" due to exceeded limit of storage (>250mb of .ipynb). 
-But, I already downloaded "SAM_COMPLETE.ipynb" file just after completion of results, in this file you can visualise the masks along with original image.
-Google-Drive Link of "SAM_Complete.ipynb": https://drive.google.com/file/d/10O9YXb4HKrKYy8aIAx2SWkx1edTT4Mbi/view?usp=sharing
